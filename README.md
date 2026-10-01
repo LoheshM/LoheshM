@@ -8,7 +8,7 @@ AI Engineer building production **multi-agent systems**: LLM orchestration, agen
 
 ---
 
-### 🚇 Now serving: Tipstat · Product Engineer, AI & Backend (Oct 2025 →)
+### 🚇 Now serving: Tipstat · AI Engineer (Oct 2025 →)
 
 **[Alvoff](https://alvoff.ai)** is an AI B2B sourcing and procurement platform. I lead all AI development and co-own the backend in a two-engineer team.
 
