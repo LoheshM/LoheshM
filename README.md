@@ -15,7 +15,7 @@ AI Engineer building production **multi-agent systems**: LLM orchestration, agen
 - **Agents:** a LangGraph supervisor with custom **Jev** intent routing across 25 intents, 4 custom-tuned discovery workflows, and a 28-tool MCP server for Claude and Cursor
 - **Cost and speed:** query latency cut from **45s+ to 20s**, and cost from **$114K to $34K per 1M queries** while quality went up. Jev alone took routing from $3,450 to $79 per 1M calls
 - **Data:** a distributed crawler that indexed **2M+ domains and 36M+ pages** at zero infrastructure cost
-- **Infra:** [Alvoff Inference](https://inference.alvoff.ai), a 10-node Mac Mini cluster serving Whisper, Kokoro, Qwen3 embeddings and a JSON-repair LLM. Everything ships to Hetzner via Harbor and GitHub Actions
+- **Infra:** [Alvoff Inference](https://inference.alvoff.ai), a 10-node Mac Mini cluster serving Whisper, Kokoro, Qwen3 embeddings and a Qwen2.5-Coder LLM. Everything ships to Hetzner via Harbor and GitHub Actions
 
 I also assisted on **HeyVision** (LangGraph email agents over 73 Gmail/Outlook tools) and **Ozyn AI** (an agentic assistant acting across 300 business apps).
 
