@@ -17,7 +17,7 @@ AI Engineer building production **multi-agent systems**: LLM orchestration, agen
 - **Data:** a distributed crawler that indexed **2M+ domains and 36M+ pages** at zero infrastructure cost
 - **Infra:** [Alvoff Inference](https://inference.alvoff.ai), a 10-node Mac Mini cluster serving Whisper, Kokoro, Qwen3 embeddings and a Qwen2.5-Coder LLM. Everything ships to Hetzner via Harbor and GitHub Actions
 
-I also assisted on **HeyVision** (LangGraph email agents over 73 Gmail/Outlook tools) and **Ozyn AI** (an agentic assistant acting across 300 business apps).
+I also assisted on **HeyVision**, where I built the MCP memory and context layer for its email agents, and **Ozyn AI**, where I built the skill layer: tasks solved once become reusable skills, plus private per-user skills.
 
 > Most of this lives in private company repos. My contribution graph includes a dates-only mirror of that activity. No code is copied.
 
