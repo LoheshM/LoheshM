@@ -47,8 +47,8 @@ I also assisted on **HeyVision**, where I built the MCP memory and context layer
 ### 🧰 Toolbox
 
 **Agents & LLMs:** LangGraph · LangChain · MCP · RAG · Mem0 · Langfuse · QLoRA · MLX · ONNX Runtime<br>
-**Backend & infra:** Python · Go · FastAPI · PostgreSQL · Redis · Qdrant · RabbitMQ · Docker · GitHub Actions · Hetzner · AWS<br>
-**Data:** Crawl4AI · SearXNG · Lightpanda · Elasticsearch · PySpark<br>
+**Backend & deployment:** Python · Go · FastAPI · PostgreSQL · Redis · Qdrant · RabbitMQ · Docker · GitHub Actions · Harbor · Hetzner<br>
+**Data & crawling:** Crawl4AI · SearXNG · Lightpanda · Tor · Elasticsearch<br>
 **How I build:** daily Claude Code and Codex user with token-optimized workflows
 
 ---
